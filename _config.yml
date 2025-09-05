@@ -1,8 +1,8 @@
-title: Mahmed hameed
-name: Mahmed hameed
+title: Mahmed Hameed
+name: Mahmed Hameed
 description: IT & Cyber Security Portfolio
 url: https://mahmed-hameed.github.io
-baseurl: ""  # user site
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
@@ -14,11 +14,12 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-minimal_mistakes_skin: air  # try default, dark, contrast, etc.
+minimal_mistakes_skin: air
 
+# Author profile (used by Minimal Mistakes)
 author:
-  name: "Mahmed hameed"
-  avatar: /assets/site/avatar.jpg   # optional placeholder
+  name: "Mahmed Hameed"
+  avatar: /assets/site/avatar.jpg
   bio: "IT • Cyber Security"
   links:
     - label: "GitHub"
@@ -38,6 +39,14 @@ defaults:
     values:
       layout: single
       classes: wide
+      author_profile: true
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
 
 collections:
   projects:

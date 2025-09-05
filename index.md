@@ -1,16 +1,16 @@
 ---
 layout: splash
-title: "Hi, I'm Mahmed"
-excerpt: "IT & Cyber Security Portfolio"
+title: "IT & Cyber Security Portfolio"
+excerpt: "Projects that ship, skills that matter."
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/site/hero.jpg
-  cta_label: "View My Projects"
+  cta_label: "Browse Projects"
   cta_url: "/projects/"
-  caption: "Building practical, secure solutions."
+  caption: "Hands-on builds and security work."
 intro:
-  - excerpt: "I work across IT and cyber security—building useful tools, automating workflows, and documenting my process."
+  - excerpt: "I build practical IT solutions and security projects — focusing on reliability, automation, and clear documentation."
 feature_row:
   - image_path: /assets/site/feature-it.png
     alt: "IT Projects"
@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/site/feature-about.png
     alt: "About"
-    title: "About Me"
+    title: "About"
     excerpt: "Background • skills • goals"
     url: "/about/"
     btn_label: "Read More"

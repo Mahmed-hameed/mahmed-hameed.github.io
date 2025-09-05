@@ -3,22 +3,7 @@ main:
     url: "/"
   - title: "Projects"
     url: "/projects/"
-    children:
-      - title: "IT Projects"
-        url: "/projects/it/"
-        children:
-          - title: "Inventory Management System"
-            url: "/projects/it/inventory-management/"
-          - title: "Task Automation Suite"
-            url: "/projects/it/task-automation/"
-      - title: "Cyber Security Projects"
-        url: "/projects/cyber/"
-        children:
-          - title: "Project X (Web Pentest Lab)"
-            url: "/projects/cyber/project-x/"
-          - title: "Project Y (Network Hardening)"
-            url: "/projects/cyber/project-y/"
-  - title: "About Me"
+  - title: "About"
     url: "/about/"
   - title: "Contact"
     url: "/contact/"
