@@ -12,17 +12,10 @@ feature_row:
     alt: "Cyber Security"
     title: "Cyber Security"
     excerpt: "Labs • write-ups • research"
-    url: "/projects/cyber/"
-    btn_label: "Explore Cyber"
+    url: "/projects/"        # was /projects/cyber/
+    btn_label: "Explore Projects"
     btn_class: "btn--primary"
   - image_path: /assets/site/feature-about.png
-    alt: "About"
-    title: "About"
-    excerpt: "Background • skills • goals"
-    url: "/about/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
- - image_path: /assets/site/feature-about.png
     alt: "About"
     title: "About"
     excerpt: "Background • skills • goals"
