@@ -1,9 +1,9 @@
 ---
-title: "Inventory Management System (Flask + SQLite)"
-summary: "Lightweight stock tracking with role-based access and CSV import/export."
-excerpt: "Flask app with auth, CRUD, and SQLite — deployed on Render."
+title: "X project"
+summary: "X summary"
+excerpt: "X summray dis."
 category: "it"
-tags: [flask, sqlite, webapp, deployment]
+tags: Y product
 date: 2025-08-20
 ---
 
@@ -19,7 +19,7 @@ date: 2025-08-20
 - Gunicorn
 
 **Code**
-- GitHub: *link to repository*
+- GitHub: https://github.com/Mahmed-hameed
 
 **Screens**
 - Add screenshots to `/assets/projects/inventory/`
