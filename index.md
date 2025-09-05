@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "IT & Cyber Security Portfolio"
-excerpt: "Projects that ship, skills that matter."
+excerpt: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
