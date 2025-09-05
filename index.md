@@ -22,7 +22,7 @@ feature_row:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    - image_path: /assets/site/feature-about.png
+ - image_path: /assets/site/feature-about.png
     alt: "About"
     title: "About"
     excerpt: "Background • skills • goals"
