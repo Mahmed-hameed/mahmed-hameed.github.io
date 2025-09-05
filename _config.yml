@@ -1,6 +1,6 @@
 title: Mahmed Hameed
 name: Mahmed Hameed
-description: IT & Cyber Security Portfolio
+description: Portfolio
 url: https://mahmed-hameed.github.io
 baseurl: ""
 
@@ -20,7 +20,6 @@ minimal_mistakes_skin: air
 author:
   name: "Mahmed Hameed"
   avatar: /assets/site/avatar.jpg
-  bio: "IT • Cyber Security"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
