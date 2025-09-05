@@ -1,19 +1,30 @@
 ---
 layout: splash
 title: "IT & Cyber Security Portfolio"
+excerpt: "Projects that ship, skills that matter."
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/site/hero.jpg
   cta_label: "Browse Projects"
   cta_url: "/projects/"
+  caption: "Hands-on builds and security work."
+intro:
+  - excerpt: "I build practical IT solutions and security projects — focusing on reliability, automation, and clear documentation."
 feature_row:
+  - image_path: /assets/site/feature-it.png
+    alt: "IT Projects"
+    title: "IT Projects"
+    excerpt: "Web apps • automation • tooling"
+    url: "/projects/it/"
+    btn_label: "Explore IT"
+    btn_class: "btn--primary"
   - image_path: /assets/site/feature-cyber.png
     alt: "Cyber Security"
     title: "Cyber Security"
     excerpt: "Labs • write-ups • research"
-    url: "/projects/"        # was /projects/cyber/
-    btn_label: "Explore Projects"
+    url: "/projects/cyber/"
+    btn_label: "Explore Cyber"
     btn_class: "btn--primary"
   - image_path: /assets/site/feature-about.png
     alt: "About"
