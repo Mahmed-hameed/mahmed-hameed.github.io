@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "IT & Cyber Security Portfolio"
+title: "Portfolio"
 excerpt: ""
 header:
   overlay_color: "#000"
@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/site/hero.jpg
   cta_label: "Browse Projects"
   cta_url: "/projects/"
-  caption: "Hands-on builds and security work."
+  caption: ""
 intro:
-  - excerpt: "I build practical IT solutions and security projects — focusing on reliability, automation, and clear documentation."
+  - excerpt: ""
 feature_row:
   - image_path: /assets/site/feature-it.png
     alt: "IT Projects"
